@@ -1,1 +1,3 @@
 site_name: Mobile Robotics Research
+theme:
+  name: material
